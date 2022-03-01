@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Suppositions, with this humble request and advice of many thousands. To the right honourable the Houses of Parliament. By J. W.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97118</idno>
+            <idno type="STC">Wing W72</idno>
+            <idno type="STC">Thomason E108_43</idno>
+            <idno type="STC">ESTC R10651</idno>
+            <idno type="EEBO-CITATION">99858872</idno>
+            <idno type="PROQUEST">99858872</idno>
+            <idno type="VID">110931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110931)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Suppositions, with this humble request and advice of many thousands. To the right honourable the Houses of Parliament. By J. W.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Mab,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 3d 1642".</note>
+                  <note>Printer's device (McK. 310 or 311) on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110931:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>SVPPOSITIONS, With this HUMBLE REQUEST And ADVICE OF MANY THOVSANDS.</p>
+            <p>To the Right HONOVRABLE The HOVSES of PARLIAMENT.</p>
+            <p>By J. W.</p>
+            <figure/>
+            <p>London, Printed for <hi>Ralph Mab</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110931:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="1" facs="tcp:110931:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>Suppoſitions, With this Humble Requeſt and advice of many thouſands, to the Right Honourable the Houſes of PARLIAMENT.</head>
+            <p>TOwards the compleating of every Stru<g ref="char:EOLhyphen"/>cture, three things are neceſſary: the <hi>work<g ref="char:EOLhyphen"/>men,</hi> the <hi>Materials,</hi> the <hi>Tooles:</hi> this Structure is the <hi>Common-Wealth;</hi> the Workemen, thoſe good and indefatigable Members of the Houſes of <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> the Materials are Orders, Rules, Ordi<g ref="char:EOLhyphen"/>nances, and good Lawes, made, and to be made; the <hi>Tooles</hi> are the Iudgements and opinions of Men; theſe Inſtruments (if neceſſary to the buil<g ref="char:EOLhyphen"/>ding) although never ſo meane, ought not to bee neglected; and therefore though you find this paper amongſt the Horchpot of Bookes, ſlight it not: the Widdow in the Goſpell was commen<g ref="char:EOLhyphen"/>ded for her mite, as much as the bounteons gi<g ref="char:EOLhyphen"/>vers. <hi>I</hi> am a Native, and Free-man in this Com<g ref="char:EOLhyphen"/>mon
+<pb n="2" facs="tcp:110931:3"/>
+               <!-- PDF PAGE 75 -->Weale, and deſire among ſo many thou<g ref="char:EOLhyphen"/>ſands to bring in my Manuall alſo towards the good of this <hi>Fabricke,</hi> and therefore <hi>ad rem.</hi>
+            </p>
+            <p>How horrible, how unchriſtian-like Civill War is, <hi>Volumes</hi> might be compleated in manife<g ref="char:EOLhyphen"/>ſtation, one yeare in that more conſiderable then thirty of War abroad.</p>
+            <p>The cauſe of our Maſacring one the other is not well underſtood; Reaſon in all men is not alike; ſhall we butcher each other, we having no for<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine enemy amongſt us, becauſe each have not like underſtanding? <hi>O God forbid.</hi> Miſdoings, not miſunderſtandings, are juſt cauſes of puniſh<g ref="char:EOLhyphen"/>ment, and then ſurely not of War.</p>
+            <p>Suppoſe the KING ſhould conquer, were it certaine whether all thoſe good Lawes made this Parliament ſhould ſtill continue? whether thoſe worthy men of that great Councell ſhould not be miſerably diſtroyed, yea, another Parlia<g ref="char:EOLhyphen"/>ment had, and old Lawes for Subjects benefit and priviledges nullifyed, Kings Prerogatives more inlarged, eſtabliſhed? Would not our Religion be in extreame hazard, yea, his ſacred Majeſty, and Poſterity, peradventure, by thoſe treacherous Papiſts, together with many other rablements,
+<pb n="3" facs="tcp:110931:3"/>
+               <!-- PDF PAGE 75 -->taking the advantage of being in his Army, at the inſtant of his conqueſt, be in danger of being conquered? May we not then fear many of our chiefeſt Nobility might be attainted, or deſtroied, and other upſtarts, enroomed, and alſo many places of all ſorts beſtowed upon people, who are both empty of worth, birth, and fortune, in liew of their owne cankred pernicious councells? might not we expect the plundering of our E<g ref="char:EOLhyphen"/>ſtates, the raviſhing of our Wives and Chil<g ref="char:EOLhyphen"/>dren; yea all our Lawes, Liberties, Religi<g ref="char:EOLhyphen"/>on, all the good wee now happily enjoy, all at once in the Laps and hands of Miſcreants, <hi>Vermin,</hi> and baſe ſeducers of that our Noble King.</p>
+            <p>Should we be conquerers, would not the King have it ever wrote in his heart, how ſtained ſhould we be with the blood of our Fathers, Kin<g ref="char:EOLhyphen"/>dred, Friends, and Countrymen, <hi>&amp;c?</hi> would not after-ages extreamely blame us? would not o<g ref="char:EOLhyphen"/>ther Nations deride us? may not Kings in future times hate the Lawes now made, calling them forced? may it not happen, that in the tryall of this victory, ſome miſchance may fall upon his
+<pb n="4" facs="tcp:110931:4"/>
+               <!-- PDF PAGE 76 -->Sacred Majeſty, or upon our Noble Prince? did not holy <hi>Davids</hi> heart ſmite him for touching, yea, but the Lap, though of <hi>Sauls</hi> Garment? Is every cranny of your heads pried into, and is there no other way but war? what ſhall I ſay, thinke, or doe, my Pen cannot expreſſe the horrid con<g ref="char:EOLhyphen"/>cluſions of ſuch a war? If there be any ſuch that have drawn breath from the poyſonous aconites of the earth, as now to belch forth ſuch venemous counſells to proceed (if poſſible to the contrary) in this true-Religion-decaying war, my Pen ſhall not honour them ſo much as to ſet downe their curſe, it was prepared for them of old, and God is juſt, &amp; in due time will render it them. <hi>Preces, &amp; Lachrymae, Arma ſunt Eccleſiae.</hi> Clergy methinkes ſhould take all caution, not to blow at the bel<g ref="char:EOLhyphen"/>lowes of this diſſention, but rather labour to ſweat water and blood for prevention, and ſo to Oratory that to their Auditors. Religion, the true proteſtant Religion, I truſt in my Redeemer, I ſhall defend with my life, next to that the Laws, and Liberties of our Nation, and the Parliament, and Priviledges thereof, being the top of our In<g ref="char:EOLhyphen"/>heritance, I would ſacrifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e my deereſt blood in defence of. But when theſe ſhal be but in diſpute
+<pb n="5" facs="tcp:110931:4"/>
+               <!-- PDF PAGE 76 -->of violation (although I confeſſed I thinke the world is ſatisfied, that there hath beene unparal<g ref="char:EOLhyphen"/>lelled miſtakes) hrongs of people ſtand amazed at the beginning of ſuch a war: yea, bleeding <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> thoſe miſerable comfortleſſe people there, breath out ſuch ſighes and groanes at theſe diſtra<g ref="char:EOLhyphen"/>ctions, that heaven ſuffers violence. Changes and chances happen to all men in this mortall life, like chances of gamſters at Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. If good chance, it may miſcarry by over-ſight, if bad, it may for<g ref="char:EOLhyphen"/>tune to be amended by good play, ſhall then theſe my humble concei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s happen in o the hands of any Member of that Great Councell, let mee beſeech him, (and ſurely if God heare my earneſt prayers, they are in ſome degree to doe for me) let them promote with effect but this motion, that forthwith a day of humiliation be ſet a part, yea with iniunction of more ſtrictneſse then or<g ref="char:EOLhyphen"/>dinary, to councell with God in this great work, and I truſt his Sacred Maieſty will doe the ſame. Where the wit of man ends, there the Provi<g ref="char:EOLhyphen"/>dence of God begins. Come out of your ſelves then you learned Councell, and let us together with you, fall flat upon the earth before the Lord, that he the King of <hi>Salem,</hi> would now
+<pb n="6" facs="tcp:110931:5"/>
+               <!-- PDF PAGE 77 -->find a way of reconciliation. <hi>Cor Regis, manibus Dei.</hi> This being done, aſsure your ſelves will vi<g ref="char:EOLhyphen"/>vifie the doubting ſpirits of many thouſands, and alſo God, even our owne God, will give us his bleſſing.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
